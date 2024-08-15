@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/sponge",
   "textures": {
-    "all": "mcimcodistxyz:spongebob"
+    "all": "mcimcodistxyz:block/spongebob"
   }
 }
