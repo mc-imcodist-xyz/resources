@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  ssh:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,6 +20,6 @@ jobs:
           host: ${{ secrets.HOST }}
           port: ${{ secrets.PORT }}
           key: ${{ secrets.KEY }}
-          run: |
+          script: |
             cd resources/
             git pull
