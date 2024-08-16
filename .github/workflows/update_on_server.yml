@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: SSH Action
-        uses: invi5H/ssh-action@v1.0.3
+        uses: appleboy/ssh-action@v1.0.3
         with:
           username: ${{ secrets.USERNAME }}
           host: ${{ secrets.HOST }}
