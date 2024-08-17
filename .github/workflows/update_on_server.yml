@@ -24,7 +24,7 @@ jobs:
             cd resources/
             git pull
       - name: RCON into MC server and send reload request.
-        uses: Plagiatus/RCON-Action@v0.2
+        uses: wolfigster/rcon-action@v1.0.2
         with:
           server: ${{ secrets.MC_RCON_SERVER }}
           port: ${{ secrets.MC_RCON_PORT }}
