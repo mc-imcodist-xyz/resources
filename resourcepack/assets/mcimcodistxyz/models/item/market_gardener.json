@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld_mace",
+  "textures": {
+    "layer0": "mcimcodistxyz:item/market_gardener"
+  }
+}
