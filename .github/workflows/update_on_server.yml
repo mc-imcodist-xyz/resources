@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  ssh_git_pull:
+  update_server:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,7 +24,7 @@ jobs:
             cd resources/
             git pull
       - name: RCON into MC server and send reload request.
-        uses: wolfigster/rcon-action@v1.0.0
+        uses: Plagiatus/RCON-Action@v0.2
         with:
           server: ${{ secrets.MC_RCON_SERVER }}
           port: ${{ secrets.MC_RCON_PORT }}
