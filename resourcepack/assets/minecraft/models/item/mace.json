@@ -9,6 +9,18 @@
                 "custom_model_data": 1
             },
             "model": "mcimcodistxyz:item/stop_sign"
-        }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "mcimcodistxyz:item/market_gardener"
+        },
+        {
+            "predicate": {
+              "custom_model_data": 3
+            },
+            "model": "mcimcodistxyz:item/the_holy_mackerel"
+          }
     ]
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mcimcodistxyz:item/forlorn_battle_axe"
+  }
+}
