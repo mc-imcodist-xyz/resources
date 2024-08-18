@@ -13,5 +13,10 @@
         "name": "Frost's Bane",
         "description": "You feel a shiver down your spine holding this...",
         "author": "IcyCaeli"     
+    },
+    "4": {
+        "name": "Cosmic Staff",
+        "description": "The power of the whole universe is in your hands",
+        "author": "CopyKatt"     
     }
 }

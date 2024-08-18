@@ -21,6 +21,12 @@
         "custom_model_data": 3
       },
       "model": "mcimcodistxyz:item/frosts_bane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "mcimcodistxyz:item/cosmic_staff"
     }
   ]
 }
