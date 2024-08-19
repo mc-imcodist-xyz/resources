@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "mcimcodistxyz:item/diamond_pickaxe_if_it_was_fucking_awesome"
+    }
+}

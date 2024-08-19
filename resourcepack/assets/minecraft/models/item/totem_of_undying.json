@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/totem_of_undying"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "mcimcodistxyz:item/octotem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "mcimcodistxyz:item/irontotem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "mcimcodistxyz:item/mr._boss"
+        }
+    ]
+}
