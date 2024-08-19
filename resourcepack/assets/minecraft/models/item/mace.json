@@ -18,9 +18,15 @@
         },
         {
             "predicate": {
-              "custom_model_data": 3
+                "custom_model_data": 3
             },
             "model": "mcimcodistxyz:item/the_holy_mackerel"
-          }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "mcimcodistxyz:item/octomace_lol"
+        }
     ]
 }
