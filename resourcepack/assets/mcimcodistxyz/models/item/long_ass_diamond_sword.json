@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/long_ass_diamond_sword",
-		"particle": "item/long_ass_diamond_sword"
+		"0": "mcimcodistxyz:item/long_ass_diamond_sword",
+		"particle": "mcimcodistxyz:item/long_ass_diamond_sword"
 	},
 	"elements": [
 		{
