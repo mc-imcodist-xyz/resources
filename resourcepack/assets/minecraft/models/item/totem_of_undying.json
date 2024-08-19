@@ -21,6 +21,12 @@
                 "custom_model_data": 101
             },
             "model": "mcimcodistxyz:item/mr._boss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "mcimcodistxyz:item/totem_of_lose"
         }
     ]
 }
