@@ -27,6 +27,12 @@
                 "custom_model_data": 4
             },
             "model": "mcimcodistxyz:item/totem_of_lose"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "mcimcodistxyz:item/katie_plush_totem"
         }
     ]
 }
