@@ -27,6 +27,12 @@
         "custom_model_data": 4
       },
       "model": "mcimcodistxyz:item/cosmic_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mcimcodistxyz:item/long_ass_netherite_sword"
     }
   ]
 }
