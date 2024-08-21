@@ -9,6 +9,12 @@
                 "custom_model_data": 1
             },
             "model": "mcimcodistxyz:item/mr._boss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "mcimcodistxyz:item/money"
         }
     ]
 }
