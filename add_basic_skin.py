@@ -39,6 +39,7 @@ if base_item_model_file_path == "" or not path.isfile(base_item_model_file_path)
 
 print("Using base item model at %s." % base_item_model_file_path)
 
+print("In use CMD ids: [%s]" % ", ".join(cmd_index))
 cmd_id = input("\nCustomModelData id: ")
 
 existing_cmd = cmd_index.get(cmd_id)
