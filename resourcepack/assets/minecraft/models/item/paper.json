@@ -15,6 +15,12 @@
                 "custom_model_data": 2
             },
             "model": "mcimcodistxyz:item/money"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "mcimcodistxyz:item/dollar_bill_(octo)"
         }
     ]
 }
