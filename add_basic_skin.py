@@ -39,6 +39,7 @@ if base_item_model_file_path == "" or not path.isfile(base_item_model_file_path)
 
 print("Using base item model at %s." % base_item_model_file_path)
 
+print("In use CMD ids: [%s]" % ", ".join(cmd_index))
 cmd_id = input("\nCustomModelData id: ")
 
 existing_cmd = cmd_index.get(cmd_id)
@@ -46,7 +47,7 @@ if existing_cmd:
     input("CustomModelData id %s is being used by %s. Continuing will overwrite it.\nPress ENTER to continue." % (cmd_id, existing_cmd.get("name", "INVALID NAME")))
 
 skin_name = input("\nSkin Name: ")
-skin_formatted_name = skin_name.replace(" ", "_").lower()
+skin_formatted_name = skin_name.replace(" ", "_").replace("(", "").replace(")", "").lower()
 skin_desc = input("Skin Description: ")
 skin_author = input("Skin Author: ")
 

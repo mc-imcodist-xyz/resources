@@ -33,6 +33,12 @@
                 "custom_model_data": 5
             },
             "model": "mcimcodistxyz:item/katie_plush_totem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "mcimcodistxyz:item/squishy_totem"
         }
     ]
 }
