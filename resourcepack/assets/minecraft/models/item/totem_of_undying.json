@@ -39,6 +39,12 @@
                 "custom_model_data": 6
             },
             "model": "mcimcodistxyz:item/squishy_totem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "mcimcodistxyz:item/shell_plush_totem"
         }
     ]
 }
