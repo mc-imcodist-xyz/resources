@@ -9,7 +9,7 @@
         "id": "minecraft:item_frame",
         "components": {
             "item_name":"\"Invisible Item Frame\"",
-            "custom_model_data": -1,
+            "custom_model_data": 1,
             "lore":["{\"color\":\"gray\",\"italic\":false,\"text\":\"Break it to revert.\"}"],
             "minecraft:entity_data": {
                 "id":"minecraft:item_frame",
