@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+        "item": "minecraft:item_frame"
+        }
+    ],
+    "result": {
+        "id": "minecraft:item_frame",
+        "components": {
+            "item_name":"\"Invisible Item Frame\"",
+            "custom_model_data": 1,
+            "minecraft:entity_data": {
+                "id":"minecraft:item_frame",
+                "Invisible": 1
+            }
+        }
+    }
+}
