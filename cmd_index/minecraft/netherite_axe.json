@@ -3,5 +3,10 @@
         "name": "Forlorn Battle Axe",
         "description": "A weapon long lost to time...",
         "author": "IcyCaeli"
+    },
+    "2": {
+        "name": "Netherite Scythe",
+        "description": "It's as good for harvesting wheat as it is for harvesting heads.",
+        "author": "Shell"
     }
 }

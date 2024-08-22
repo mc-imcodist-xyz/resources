@@ -9,6 +9,12 @@
         "custom_model_data": 1
       },
       "model": "mcimcodistxyz:item/forlorn_battle_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mcimcodistxyz:item/netherite_scythe"
     }
   ]
 }
