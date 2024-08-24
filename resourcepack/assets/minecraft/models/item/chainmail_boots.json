@@ -66,6 +66,12 @@
       "predicate": {
         "trim_type": 0.61
       }
+    },
+    {
+      "model": "minecraft:item/chainmail_boots_breeze_rod_trim",
+      "predicate": {
+        "trim_type": 0.62
+      }
     }
   ],
   "textures": {
