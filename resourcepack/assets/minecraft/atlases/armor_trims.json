@@ -5,6 +5,7 @@
       "palette_key": "minecraft:trims/color_palettes/trim_palette",
       "permutations": {
         "amethyst": "minecraft:trims/color_palettes/amethyst",
+        "breeze_rod": "codistsmp:trims/color_palettes/breeze_rod",
         "copper": "minecraft:trims/color_palettes/copper",
         "diamond": "minecraft:trims/color_palettes/diamond",
         "diamond_darker": "minecraft:trims/color_palettes/diamond_darker",
