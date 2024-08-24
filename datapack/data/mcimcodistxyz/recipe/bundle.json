@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "#": "minecraft:leather",
-    "-": "minecraft:string"
+    "#": {"id":"minecraft:leather"},
+    "-": {"id":"minecraft:string"}
   },
   "pattern": [
     "-",
