@@ -45,6 +45,12 @@
                 "custom_model_data": 7
             },
             "model": "mcimcodistxyz:item/shell_plush_totem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "mcimcodistxyz:item/codist_plush_totem"
         }
     ]
 }
