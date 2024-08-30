@@ -21,6 +21,12 @@
                 "custom_model_data": 3
             },
             "model": "mcimcodistxyz:item/dollar_bill_octo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "mcimcodistxyz:item/bigass_top_hat"
         }
     ]
 }
